@@ -1,8 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Gif Explorer App
 
-## Available Scripts
-
-In the project directory, you can run:
+A small application created in react with hooks
 
 ### `npm start`
 
